@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Zeeshan Ilahi</h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h1 align="center">Hi 👋, I'm Kashif Jamili</h1>
+<h3 align="center">A passionate Backend Developer </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Zeeshan; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Kashif; I am a backend%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000" /></a>
 </p>
 
 <img align="right" width="300" padding="20px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/06/2-46.gif"/>
 
-- 👨‍💻 All of my projects are available at [https://zeeshani26.github.io/](https://zeeshani26.github.io/)
+- 💬 Ask me about *Golang, Algorithms, Data Structures, PHP, JAVA *
 
-- 💬 Ask me about *React, JavaScript HTML & CSS *
-
-- 📫 How to reach me *zeeshan02679@gmail.com*
+- 📫 How to reach me *jamil.kashif094@gmail.com*
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshani26&label=Profile%20views&color=0D1117&style=flat" alt="zeeshan-ilahi" /> </p>
@@ -22,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zeeshanilahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeeshanilahi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kashif-jamil-987776114/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kashif-jamil-987776114/" height="30" width="40" /></a>
 <a href="https://zeeshani26.github.io/" target="blank"><img align="center" src="https://icons.veryicon.com/png/o/commerce-shopping/common-icons-of-ping-an-corporate-business/account-manager.png" alt="https://zeeshani26.github.io/" height="30" width="40" /></a>
 </p>
 
@@ -65,19 +63,19 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/zeeshani26/github-readme-stats"><img alt="zeeshan-ilahi" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshani26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mohd-kashif/github-readme-stats"><img alt="kashif-jamil" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshani26&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
-    <a href="https://github.com/zeeshani26/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zeeshani26" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshani26&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    <a href="https://github.com/mohd-kashif/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohd-kashif" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshani26&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/zeeshani26/github-readme-stats"><img alt="zeeshani26" Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeeshani26&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="zeeshani26" /></a>
+    <a href="https://github.com/mohd-kashif/github-readme-stats"><img alt="mohd-kashif" Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeeshani26&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="zeeshani26" /></a>
     </p>                                                                 
 <br/>
 <br/>
